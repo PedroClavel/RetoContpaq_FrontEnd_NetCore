@@ -1,0 +1,73 @@
+﻿@model List<Generic.Data.Entities.Alumno>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    //  @using System.Resources;
+}
+
+<div class="col-md-2">
+    <button onclick="SaveView()" class="btn btn-success btn-block"><span class="fas fa-plus"></span> Registrar</button>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        <div class="box box-default">
+            <div class="box-body">
+                <div class="row">
+                    <br />
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <table id="tbl_Alumnos" width="100%" class="table table-bordered table-hover dataTable dtr-inline">
+                            <thead class="table-primary">
+                                <tr>
+                                    <th>Nombres</th>
+                                    <th>Apellido Paterno</th>
+                                    <th>Apellido Materno</th>
+                                    <th>Edad</th>
+                                    <th>Grado</th>
+                                    <th>Grupo</th>
+                                    <th>Telefono</th>
+                                    <th class="noExport noVis"></th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+
+
+                                        <td>@item.Nombres</td>
+                                        <td>@item.ApellidoPaterno</td>
+                                        <td>@item.ApellidoMaterno</td>
+                                        <td>@item.Edad</td>
+                                        <td>@item.Grado</td>
+                                        <td>@item.Grupo</td>
+                                        <td>@item.Telefono</td>
+
+                                        <td>
+                                            <center>
+                                                <button onclick="EditView(this.id)" id="@item.IdAlumno" data-id="@item.IdAlumno" class="btn btn-warning btn-xs">&nbsp;<i class="fas fa-edit"></i></button>
+                                                <button onclick="DeleteView(this.id)" id="@item.IdAlumno" data-id="@item.IdAlumno" class="btn btn-danger btn-xs">&nbsp;<i class="fas fa-trash"></i></button>
+                                            </center>
+                                        </td>
+                                    </tr>
+                                }
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@Html.Partial("AlumnoView")
+@Html.Partial("AlertModalView")
+@Html.Partial("LoadingView")
+<!-- Modal -->
+@section scripts {
+    <script src="~/js/vistaalumno/alumnoview.js"></script>  
+}

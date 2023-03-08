@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<!--
+This is a starter template page. Use this page to start your new project from
+scratch. This page gets rid of all links and provides the needed markup only.
+-->
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Registro Alumnos</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="~/assets/plugins/fontawesome-free/css/all.min.css">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/css/login/login.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/RegistroDeAlumnosWebCore.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/assets/fontawesome-free/css/all.min.css">
+    <link href="~/css/loading.css" rel="stylesheet" />
+    <link href="~/assets/adminlte/adminlte.min.css" rel="stylesheet" />
+    <link href="~/assets/datatables-buttons/css/buttons.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/assets/datatables-responsive/css/responsive.bootstrap4.min.css" rel="stylesheet" />
+    @await RenderSectionAsync("styles", required: false)
+</head>
+<body >
+    <header>
+     
+    </header>
+    <!-- Content Wrapper. Contains page content -->
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            <div class="row justify-content-md-center">
+                &copy; 2023 - RegistroDeAlumnosWebCore -
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/assets/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/assets/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/assets/adminlte/js/adminlte.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

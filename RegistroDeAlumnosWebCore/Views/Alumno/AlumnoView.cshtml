@@ -1,0 +1,78 @@
+﻿<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="loadMeLabel">
+
+    <div class="modal-dialog modal-lg" role="document">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                @*<button type="button" class="close" data-dismiss="modal">&times;</button>*@
+                <h4 class="modal-title"><label id="textSave"></label></h4>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row justify-content-around">
+                        <input id="idAlumno" name="idAlumno" type="hidden">
+
+                        <div class="col-4">
+                            <label>Nombres:</label>
+                            <input type="text" id="nombres" placeholder="Nombres" />
+                        </div>
+                        <div class="col-4">
+                            <label>Apellido Paterno:</label>
+                            <input type="text" id="apellidoP" placeholder="Apellido Paterno" />
+                        </div>
+                        <div class="col-4">
+                            <label>Apellido Materno:</label>
+                            <input type="text" id="apellidoM" placeholder="Apellido Materno" />
+                        </div>
+                    </div>
+
+
+                    <div class="row justify-content-around">
+                        <div class="col-4">
+                            <label>Edad:</label>
+                            <input type="text" id="edad" placeholder="15" />
+                        </div>
+                        <div class="col-4">
+                            <label>Grado:</label>
+                            @*<input type="text" id="grado" placeholder="5"*@
+                            <select id="grado" class="custom-select form-control-border">
+                                <option id="1" value="1">1 °</option>
+                                <option id="2" value="2">2 °</option>
+                                <option id="3" value="3">3 °</option>
+                                <option id="4" value="4">4 °</option>
+                                <option id="5" value="5">5 °</option>
+                                <option id="6" value="6">6 °</option>
+                            </select>
+                        </div>
+                        <div class="col-4">
+                            <label>Grupo:</label>
+                            @*<input type="text" id="grupo" placeholder="A" />*@
+                            <select id="grupo" class="custom-select form-control-border">
+                                <option id="A" value="A">A</option>
+                                <option id="B" value="B">B</option>
+                                <option id="C" value="C">C</option>
+                                <option id="D" value="D">D</option>
+                                <option id="E" value="E">E</option>
+                                <option id="F" value="F">F</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row justify-content-start">
+                        <div class="col-4">
+                            <label>Telefono:</label>
+                            <input type="text" id="telefono" placeholder="9995314620" />
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button onclick="onClose()" type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                <button onclick="onSave()" type="button" class="btn btn-primary">Guardar</button>
+            </div>
+        </div>
+
+    </div>
+</div>

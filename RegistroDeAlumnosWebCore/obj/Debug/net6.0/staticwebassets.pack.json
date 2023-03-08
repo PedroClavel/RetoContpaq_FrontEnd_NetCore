@@ -1,0 +1,3009 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RegistroDeAlumnosWebCore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RegistroDeAlumnosWebCore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\adminlte.css",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\js\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\adminLTE\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\assets\\adminLTE\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-autofill\\css\\autoFill.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-autofill\\css\\autoFill.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-autofill\\css\\autoFill.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-autofill\\css\\autoFill.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-autofill\\js\\autoFill.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-autofill\\js\\autoFill.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-autofill\\js\\autoFill.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-autofill\\js\\autoFill.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-autofill\\js\\dataTables.autoFill.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-autofill\\js\\dataTables.autoFill.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-autofill\\js\\dataTables.autoFill.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-autofill\\js\\dataTables.autoFill.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-bs4\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-bs4\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-bs4\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-bs4\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\js\\buttons.flash.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\js\\buttons.flash.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\js\\buttons.print.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-colreorder\\css\\colReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-colreorder\\css\\colReorder.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-colreorder\\css\\colReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-colreorder\\css\\colReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-colreorder\\js\\colReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-colreorder\\js\\colReorder.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-colreorder\\js\\colReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-colreorder\\js\\colReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-colreorder\\js\\dataTables.colReorder.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-colreorder\\js\\dataTables.colReorder.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-colreorder\\js\\dataTables.colReorder.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-colreorder\\js\\dataTables.colReorder.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-fixedheader\\js\\dataTables.fixedHeader.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-fixedheader\\js\\dataTables.fixedHeader.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-fixedheader\\js\\dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-fixedheader\\js\\dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-keytable\\css\\keyTable.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-keytable\\css\\keyTable.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-keytable\\css\\keyTable.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-keytable\\css\\keyTable.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-keytable\\js\\dataTables.keyTable.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-keytable\\js\\dataTables.keyTable.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-keytable\\js\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-keytable\\js\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-keytable\\js\\keyTable.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-keytable\\js\\keyTable.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-keytable\\js\\keyTable.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-keytable\\js\\keyTable.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-responsive\\css\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-responsive\\css\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-responsive\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-responsive\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-responsive\\js\\dataTables.responsive.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-responsive\\js\\dataTables.responsive.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-responsive\\js\\responsive.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-responsive\\js\\responsive.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-responsive\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-responsive\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-rowgroup\\css\\rowGroup.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-rowgroup\\css\\rowGroup.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-rowgroup\\css\\rowGroup.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-rowgroup\\css\\rowGroup.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-rowgroup\\js\\dataTables.rowGroup.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-rowgroup\\js\\dataTables.rowGroup.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-rowgroup\\js\\dataTables.rowGroup.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-rowgroup\\js\\dataTables.rowGroup.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-rowgroup\\js\\rowGroup.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-rowgroup\\js\\rowGroup.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-rowgroup\\js\\rowGroup.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-rowgroup\\js\\rowGroup.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-rowreorder\\css\\rowReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-rowreorder\\css\\rowReorder.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-rowreorder\\css\\rowReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-rowreorder\\css\\rowReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-rowreorder\\js\\dataTables.rowReorder.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-rowreorder\\js\\dataTables.rowReorder.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-rowreorder\\js\\dataTables.rowReorder.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-rowreorder\\js\\dataTables.rowReorder.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-rowreorder\\js\\rowReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-rowreorder\\js\\rowReorder.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-rowreorder\\js\\rowReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-rowreorder\\js\\rowReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-scroller\\css\\scroller.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-scroller\\css\\scroller.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-scroller\\css\\scroller.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-scroller\\css\\scroller.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-scroller\\js\\dataTables.scroller.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-scroller\\js\\dataTables.scroller.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-scroller\\js\\dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-scroller\\js\\dataTables.scroller.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-scroller\\js\\scroller.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-scroller\\js\\scroller.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-scroller\\js\\scroller.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-scroller\\js\\scroller.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-searchbuilder\\js\\dataTables.searchBuilder.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-searchbuilder\\js\\dataTables.searchBuilder.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-searchbuilder\\js\\dataTables.searchBuilder.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-searchbuilder\\js\\dataTables.searchBuilder.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-searchpanes\\css\\searchPanes.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-searchpanes\\css\\searchPanes.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-searchpanes\\css\\searchPanes.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-searchpanes\\css\\searchPanes.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-searchpanes\\js\\dataTables.searchPanes.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-searchpanes\\js\\dataTables.searchPanes.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-searchpanes\\js\\dataTables.searchPanes.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-searchpanes\\js\\dataTables.searchPanes.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-searchpanes\\js\\searchPanes.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-searchpanes\\js\\searchPanes.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-searchpanes\\js\\searchPanes.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-searchpanes\\js\\searchPanes.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-select\\css\\select.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-select\\css\\select.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-select\\css\\select.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatables-select\\css\\select.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-select\\js\\dataTables.select.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-select\\js\\dataTables.select.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-select\\js\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-select\\js\\dataTables.select.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-select\\js\\select.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-select\\js\\select.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables-select\\js\\select.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables-select\\js\\select.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\assets\\datatables\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\assets\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\css\\flag-icon.css",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\css\\flag-icon.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\css\\flag-icon.min.css",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\css\\flag-icon.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ad.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ad.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ae.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ae.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\af.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\af.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ag.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ag.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ai.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ai.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\al.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\al.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\am.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\am.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ao.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ao.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\aq.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\aq.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ar.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ar.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\as.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\as.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\at.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\at.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\au.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\au.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\aw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\aw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ax.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ax.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\az.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\az.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ba.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ba.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bb.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bb.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bd.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bd.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\be.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\be.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bh.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bh.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bi.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bi.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bj.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bj.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bo.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bo.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bq.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bq.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\br.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\br.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bs.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bs.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bv.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bv.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\by.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\by.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\bz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\bz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ca.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ca.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cd.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cd.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ch.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ch.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ci.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ci.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ck.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ck.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\co.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\co.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cv.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cv.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cx.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cx.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cy.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cy.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\cz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\cz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\de.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\de.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\dj.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\dj.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\dk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\dk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\dm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\dm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\do.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\do.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\dz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\dz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ec.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ec.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ee.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ee.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\eg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\eg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\eh.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\eh.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\er.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\er.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\es-ca.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\es-ca.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\es-ga.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\es-ga.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\es.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\es.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\et.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\et.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\eu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\eu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\fi.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\fi.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\fj.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\fj.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\fk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\fk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\fm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\fm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\fo.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\fo.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\fr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\fr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ga.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ga.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gb-eng.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gb-eng.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gb-nir.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gb-nir.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gb-sct.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gb-sct.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gb-wls.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gb-wls.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gb.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gb.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gd.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gd.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ge.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ge.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gh.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gh.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gi.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gi.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gp.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gp.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gq.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gq.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gs.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gs.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\gy.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\gy.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\hk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\hk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\hm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\hm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\hn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\hn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\hr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\hr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ht.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ht.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\hu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\hu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\id.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\id.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ie.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ie.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\il.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\il.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\im.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\im.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\in.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\in.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\io.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\io.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\iq.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\iq.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ir.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ir.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\is.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\is.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\it.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\it.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\je.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\je.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\jm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\jm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\jo.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\jo.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\jp.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\jp.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ke.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ke.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\kg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\kg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\kh.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\kh.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ki.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ki.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\km.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\km.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\kn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\kn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\kp.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\kp.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\kr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\kr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\kw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\kw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ky.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ky.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\kz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\kz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\la.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\la.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\lb.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\lb.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\lc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\lc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\li.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\li.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\lk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\lk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\lr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\lr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ls.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ls.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\lt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\lt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\lu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\lu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\lv.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\lv.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ly.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ly.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ma.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ma.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\md.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\md.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\me.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\me.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mh.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mh.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ml.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ml.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mo.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mo.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mp.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mp.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mq.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mq.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ms.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ms.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mv.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mv.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mx.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mx.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\my.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\my.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\mz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\mz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\na.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\na.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\nc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\nc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ne.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ne.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\nf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\nf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ng.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ng.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ni.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ni.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\nl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\nl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\no.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\no.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\np.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\np.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\nr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\nr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\nu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\nu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\nz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\nz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\om.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\om.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\pa.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\pa.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\pe.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\pe.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\pf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\pf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\pg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\pg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ph.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ph.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\pk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\pk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\pl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\pl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\pm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\pm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\pn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\pn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\pr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\pr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ps.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ps.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\pt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\pt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\pw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\pw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\py.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\py.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\qa.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\qa.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\re.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\re.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ro.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ro.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\rs.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\rs.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ru.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ru.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\rw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\rw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sa.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sa.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sb.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sb.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sd.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sd.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\se.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\se.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sh.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sh.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\si.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\si.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sj.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sj.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\so.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\so.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ss.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ss.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\st.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\st.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sv.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sv.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sx.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sx.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sy.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sy.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\sz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\sz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\td.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\td.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\th.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\th.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tj.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tj.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\to.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\to.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tv.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tv.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\tz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\tz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ua.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ua.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ug.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ug.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\um.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\um.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\un.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\un.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\us.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\us.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\uy.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\uy.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\uz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\uz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\va.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\va.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\vc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\vc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ve.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ve.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\vg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\vg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\vi.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\vi.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\vn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\vn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\vu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\vu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\wf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\wf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ws.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ws.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\xk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\xk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\ye.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\ye.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\yt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\yt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\za.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\za.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\zm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\zm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\1x1\\zw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\1x1\\zw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ad.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ad.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ae.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ae.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\af.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\af.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ag.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ag.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ai.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ai.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\al.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\al.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\am.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\am.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ao.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ao.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\aq.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\aq.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ar.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ar.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\as.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\as.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\at.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\at.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\au.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\au.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\aw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\aw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ax.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ax.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\az.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\az.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ba.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ba.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bb.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bb.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bd.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bd.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\be.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\be.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bh.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bh.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bi.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bi.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bj.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bj.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bo.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bo.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bq.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bq.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\br.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\br.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bs.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bs.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bv.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bv.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\by.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\by.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\bz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\bz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ca.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ca.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cd.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cd.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ch.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ch.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ci.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ci.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ck.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ck.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\co.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\co.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cv.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cv.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cx.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cx.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cy.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cy.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\cz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\cz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\de.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\de.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\dj.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\dj.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\dk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\dk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\dm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\dm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\do.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\do.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\dz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\dz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ec.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ec.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ee.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ee.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\eg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\eg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\eh.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\eh.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\er.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\er.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\es-ca.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\es-ca.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\es-ga.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\es-ga.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\es.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\es.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\et.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\et.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\eu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\eu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\fi.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\fi.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\fj.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\fj.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\fk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\fk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\fm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\fm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\fo.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\fo.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\fr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\fr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ga.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ga.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gb-eng.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gb-eng.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gb-nir.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gb-nir.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gb-sct.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gb-sct.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gb-wls.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gb-wls.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gb.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gb.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gd.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gd.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ge.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ge.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gh.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gh.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gi.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gi.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gp.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gp.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gq.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gq.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gs.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gs.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\gy.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\gy.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\hk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\hk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\hm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\hm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\hn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\hn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\hr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\hr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ht.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ht.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\hu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\hu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\id.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\id.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ie.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ie.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\il.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\il.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\im.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\im.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\in.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\in.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\io.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\io.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\iq.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\iq.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ir.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ir.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\is.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\is.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\it.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\it.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\je.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\je.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\jm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\jm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\jo.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\jo.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\jp.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\jp.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ke.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ke.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\kg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\kg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\kh.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\kh.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ki.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ki.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\km.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\km.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\kn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\kn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\kp.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\kp.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\kr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\kr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\kw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\kw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ky.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ky.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\kz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\kz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\la.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\la.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\lb.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\lb.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\lc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\lc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\li.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\li.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\lk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\lk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\lr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\lr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ls.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ls.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\lt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\lt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\lu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\lu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\lv.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\lv.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ly.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ly.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ma.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ma.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\md.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\md.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\me.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\me.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mh.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mh.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ml.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ml.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mo.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mo.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mp.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mp.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mq.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mq.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ms.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ms.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mv.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mv.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mx.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mx.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\my.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\my.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\mz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\mz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\na.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\na.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\nc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\nc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ne.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ne.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\nf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\nf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ng.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ng.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ni.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ni.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\nl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\nl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\no.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\no.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\np.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\np.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\nr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\nr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\nu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\nu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\nz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\nz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\om.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\om.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\pa.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\pa.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\pe.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\pe.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\pf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\pf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\pg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\pg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ph.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ph.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\pk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\pk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\pl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\pl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\pm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\pm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\pn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\pn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\pr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\pr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ps.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ps.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\pt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\pt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\pw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\pw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\py.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\py.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\qa.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\qa.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\re.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\re.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ro.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ro.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\rs.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\rs.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ru.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ru.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\rw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\rw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sa.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sa.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sb.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sb.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sd.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sd.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\se.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\se.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sh.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sh.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\si.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\si.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sj.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sj.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\so.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\so.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ss.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ss.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\st.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\st.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sv.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sv.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sx.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sx.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sy.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sy.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\sz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\sz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\td.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\td.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\th.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\th.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tj.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tj.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tl.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tl.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\to.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\to.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tr.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tr.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tv.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tv.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\tz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\tz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ua.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ua.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ug.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ug.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\um.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\um.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\un.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\un.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\us.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\us.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\uy.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\uy.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\uz.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\uz.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\va.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\va.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\vc.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\vc.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ve.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ve.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\vg.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\vg.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\vi.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\vi.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\vn.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\vn.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\vu.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\vu.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\wf.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\wf.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ws.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ws.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\xk.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\xk.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\ye.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\ye.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\yt.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\yt.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\za.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\za.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\zm.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\zm.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\flag-icon-css\\flags\\4x3\\zw.svg",
+      "PackagePath": "staticwebassets\\assets\\flag-icon-css\\flags\\4x3\\zw.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\sweetalert2-theme-bootstrap-4\\bootstrap-4.css",
+      "PackagePath": "staticwebassets\\assets\\sweetalert2-theme-bootstrap-4\\bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\sweetalert2-theme-bootstrap-4\\bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\assets\\sweetalert2-theme-bootstrap-4\\bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\sweetalert2\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\assets\\sweetalert2\\sweetalert2.all.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\assets\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\assets\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\sweetalert2\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\assets\\sweetalert2\\sweetalert2.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\assets\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\assets\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\assets\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\css\\Login\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login\\Login.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\css\\TableSelect.css",
+      "PackagePath": "staticwebassets\\css\\TableSelect.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\css\\loading.css",
+      "PackagePath": "staticwebassets\\css\\loading.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\js\\VistaAlumno\\AlumnoView.js",
+      "PackagePath": "staticwebassets\\js\\VistaAlumno\\AlumnoView.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\js\\VistaLogin\\loginView.js",
+      "PackagePath": "staticwebassets\\js\\VistaLogin\\loginView.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\RegistroDeAlumnosWebCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RegistroDeAlumnosWebCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RegistroDeAlumnosWebCore.props",
+      "PackagePath": "build\\RegistroDeAlumnosWebCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RegistroDeAlumnosWebCore.props",
+      "PackagePath": "buildMultiTargeting\\RegistroDeAlumnosWebCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RegistroDeAlumnosWebCore.props",
+      "PackagePath": "buildTransitive\\RegistroDeAlumnosWebCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

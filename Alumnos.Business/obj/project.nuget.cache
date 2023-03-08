@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6M3U7bOPme7WQQzW66k3zP6xaycovs9gxNY1qC4MYazC+P4+WaXY2EK9gzJc49e0hHXac068F/AyY2nInxDPZw==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\FrontEnd_RegistroDeAlumnosWeb\\Alumnos.Business\\Alumnos.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro.clavel\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\pedro.clavel\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

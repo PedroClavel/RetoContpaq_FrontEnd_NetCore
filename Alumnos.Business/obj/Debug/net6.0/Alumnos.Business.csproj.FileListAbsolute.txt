@@ -1,0 +1,15 @@
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\bin\Debug\net6.0\Alumnos.Business.deps.json
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\bin\Debug\net6.0\Alumnos.Business.dll
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\bin\Debug\net6.0\Alumnos.Business.pdb
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\obj\Debug\net6.0\Alumnos.Business.csproj.AssemblyReference.cache
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\obj\Debug\net6.0\Alumnos.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\obj\Debug\net6.0\Alumnos.Business.AssemblyInfoInputs.cache
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\obj\Debug\net6.0\Alumnos.Business.AssemblyInfo.cs
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\obj\Debug\net6.0\Alumnos.Business.csproj.CoreCompileInputs.cache
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\obj\Debug\net6.0\Alumnos.Business.dll
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\obj\Debug\net6.0\refint\Alumnos.Business.dll
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\obj\Debug\net6.0\Alumnos.Business.pdb
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\obj\Debug\net6.0\ref\Alumnos.Business.dll
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\bin\Debug\net6.0\Generic.Data.Entities.dll
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\bin\Debug\net6.0\Generic.Data.Entities.pdb
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Alumnos.Business\obj\Debug\net6.0\Alumnos.Business.csproj.CopyComplete

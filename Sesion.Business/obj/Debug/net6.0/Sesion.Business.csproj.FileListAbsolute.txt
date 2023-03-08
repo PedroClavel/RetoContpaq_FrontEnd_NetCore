@@ -1,0 +1,15 @@
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\bin\Debug\net6.0\Sesion.Business.deps.json
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\bin\Debug\net6.0\Sesion.Business.dll
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\bin\Debug\net6.0\Sesion.Business.pdb
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\obj\Debug\net6.0\Sesion.Business.csproj.AssemblyReference.cache
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\obj\Debug\net6.0\Sesion.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\obj\Debug\net6.0\Sesion.Business.AssemblyInfoInputs.cache
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\obj\Debug\net6.0\Sesion.Business.AssemblyInfo.cs
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\obj\Debug\net6.0\Sesion.Business.csproj.CoreCompileInputs.cache
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\obj\Debug\net6.0\Sesion.Business.dll
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\obj\Debug\net6.0\refint\Sesion.Business.dll
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\obj\Debug\net6.0\Sesion.Business.pdb
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\obj\Debug\net6.0\ref\Sesion.Business.dll
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\obj\Debug\net6.0\Sesion.Business.csproj.CopyComplete
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\bin\Debug\net6.0\Generic.Data.Entities.dll
+C:\Proyectos\FrontEnd_RegistroDeAlumnosWeb\Sesion.Business\bin\Debug\net6.0\Generic.Data.Entities.pdb
